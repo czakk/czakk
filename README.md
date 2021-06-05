@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TD2 Helper](https://github.com/czakk/td2-helper)
 
-- 🌱 I’m currently learning **Python, Django, Java**
+- 🌱 I’m currently learning **Python, Django, JavaScript, TypeScript, Vue.js, Nestjs**
 
 - 💬 Ask me about **Python**
 
