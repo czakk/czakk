@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm czak</h1>
 <h3 align="center">A young Python Developer from Poland</h3>
 
-- 🔭 I’m currently working on [TD2 Helper](https://github.com/czakk/td2-helper)
+- 🔭 I’m currently working on [TD2 Helper](https://github.com/czakk/td2-helper), [Drzewko-Django-Project](https://github.com/czakk/Drzewko-Django-Project)
 
 - 🌱 I’m currently learning **Python, Django, JavaScript, TypeScript, Vue.js, Nestjs**
 
